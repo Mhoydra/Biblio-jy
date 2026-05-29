@@ -1,6 +1,4 @@
-
-
-export default function Perfil(){
+export default function CriacaoVisualizar(){
     return(
         <div>
 
