@@ -1,6 +1,4 @@
-
-
-export default function Explorar(){
+export default function CriacaoExplorar(){
     return(
         <div>
             

@@ -1,9 +1,9 @@
 
 
-export default function Perfil(){
+export default function Amigos(){
     return(
         <div>
             
         </div>
-    )
-}
+    );
+};
