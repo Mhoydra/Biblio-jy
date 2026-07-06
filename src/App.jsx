@@ -4,7 +4,7 @@ import { Routes, Route, Navigate } from "react-router-dom";
 
 import Amigos from "./pages/Amigos";
 import Explorar from "./pages/Explorar";
-import Amigos from "./pages/Amigos";
+import Criacoes from "./pages/Criacoes";
 import Perfil from "./pages/Perfil";
 
 
